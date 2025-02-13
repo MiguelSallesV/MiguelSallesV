@@ -21,11 +21,13 @@
 
 ### Tech Stacks 🚀
 
-<div style = "display: inline-block;"></br>
-<img style = "text-align: center; padding: 0 1em 2em 0" alt="HTML" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img style = "text-align: center; padding-bottom: 2em" alt="CSS" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img style = "text-align: center; padding: 0 1em 2em" alt="Java Script" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<div style = "display: inline-block;">
+<img style = "text-align: center;" alt="HTML" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img style = "text-align: center;" alt="CSS" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img style = "text-align: center;" alt="Java Script" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
 </br>
+
 <p>Sou uma pessoa apaixonada por tecnologia espero um futuro promissor na área! :)</p>
 
 
